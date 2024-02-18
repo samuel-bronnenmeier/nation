@@ -1,0 +1,1 @@
+Religion, Sprache, Kultur (eng verwandt mit [[Geschichte|Geschichte]])

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"8d05228f54cae98a","x":-300,"y":220,"width":400,"height":400,"type":"file","file":"nation/Biologie.md"},
+		{"id":"52134be9aba5403b","type":"file","file":"nation/Ökonomie.md","x":1080,"y":-220,"width":400,"height":400},
+		{"id":"f091c9ca656c28f2","type":"file","file":"nation/Anforderungen.md","x":60,"y":-980,"width":500,"height":720},
+		{"id":"61cf7b182ec6ef5b","type":"file","file":"nation/Kultur.md","x":160,"y":-220,"width":400,"height":400},
+		{"id":"decc222bb90acbc7","type":"file","file":"nation/Geschichte.md","x":-300,"y":-220,"width":400,"height":400},
+		{"id":"35271b32d57d4dec","type":"file","file":"nation/Geographie.md","x":-760,"y":-220,"width":400,"height":400},
+		{"id":"cf5b87fbe2e9bc48","type":"file","file":"nation/Politik.md","x":620,"y":-220,"width":400,"height":400},
+		{"id":"feeca43734d03e79","type":"file","file":"nation/Ressourcen.md","x":680,"y":-980,"width":400,"height":400},
+		{"id":"26f7826184bcb649","type":"file","file":"nation/Notizen.md","x":-440,"y":-980,"width":400,"height":400}
+	],
+	"edges":[]
+}

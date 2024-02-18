@@ -1,0 +1,1 @@
+Regierungsform, Verfassung, Parteien, Rechtssystem (bilden sich vermutlich aus [[Geschichte|Geschichte]])

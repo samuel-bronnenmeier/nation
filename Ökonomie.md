@@ -1,0 +1,1 @@
+Handel, Industrie, natürliche Ressourcen, beeinflusst durch [[Politik]], beeinflusst [[Geschichte]] und [[Kultur]].

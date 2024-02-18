@@ -1,0 +1,1 @@
+Da die #X_Menschen sehr direkt von Reptilien abstammen und das feuchte-heiße Klima evolutiv keine Änderung der Hautstruktur hervorbrachte, ist ihre Körperoberfläche lederartig und mit Schuppen besetzt. Dies sorgt außerdem wie eine integrierte Rüstung für erhöhten Schutz im Kampf.
